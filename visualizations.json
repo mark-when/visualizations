@@ -38,5 +38,13 @@
     "url": "https://resume.markwhen.com",
     "description": "What you've done.",
     "by": "markwhen"
+  },
+  {
+    "id": "markwhen.c2",
+    "name": "Oneview",
+    "iconSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"w-full h-full\" width=\"40\" height=\"40\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path>    <path d=\"M11 6l9 0\"></path>    <path d=\"M9 12l7 0\"></path>    <path d=\"M10 18l8 0\"></path>    <path d=\"M5 6l0 12\"></path> </svg>",
+    "url": "https://c2-dhz.pages.dev",
+    "description": "Bastard child of OneView",
+    "by": "markwhen"
   }
 ]
