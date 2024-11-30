@@ -1,5 +1,14 @@
 [
   {
+    "id": "markwhen.dial",
+    "name": "Dial",
+    "url": "editz.pages.dev",
+    "iconSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"h-full w-full\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/></svg>",
+    "description": "Create and edit visualizations with an in-browser editor.",
+    "by": "markwhen",
+    "repo": "https://github.com/mark-when/dial"
+  },
+  {
     "id": "markwhen.calendar",
     "name": "Calendar",
     "iconSvg": "<svg class=\"h-full w-full\" fill=\"currentColor\" viewBox=\"0 0 24 24\"><path d=\"M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z\"></path></svg>",
